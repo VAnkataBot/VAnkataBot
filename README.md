@@ -6,19 +6,21 @@
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=ff4b4b"/>
 <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=ff4b4b"/>
 <img src="https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css&logoColor=ff4b4b"/>
 <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ff4b4b"/>
-
 </p>
-<p align="center">
 
+<p align="center">
 <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=ff4b4b"/>
 <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=ff4b4b"/>
 <img src="https://img.shields.io/badge/Jupyter-1a1a1a?style=for-the-badge&logo=jupyter&logoColor=ff4b4b"/>
+</p>
 
+<p align="center">
+<img href="https://discord.com/users/698228989302407268" src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ff4b4b" alt="Discord"/>
+<img href="mailto:ivanrangelov55@gmail.com" src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/>
 </p>
 
 <p align="center">
