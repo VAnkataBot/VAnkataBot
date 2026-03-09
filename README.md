@@ -19,8 +19,8 @@
 </p>
 
 <p align="center">
-<img href="https://discord.com/users/698228989302407268" src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ff4b4b" alt="Discord"/>
-<img href="mailto:ivanrangelov55@gmail.com" src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ff4b4b" alt="Discord"/>(https://discord.com/users/698228989302407268)
+<img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/>(mailto:ivanrangelov55@gmail.com)
 </p>
 
 <p align="center">
