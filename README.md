@@ -23,9 +23,11 @@
     <a href="mailto:ivanrangelov55@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/></a>
 </p>
 
-<p align="center">                                                                                                                                                        
-<img src="https://github.com/VAnkataBot/VAnkataBot/blob/output/github-contribution-grid-snake-red.svg"/>                                                                         
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/VAnkataBot/VAnkataBot/blob/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/VAnkataBot/VAnkataBot/blob/output/github-contribution-grid-snake-light.svg"/>
+<img alt="snake animation" src="https://github.com/VAnkataBot/VAnkataBot/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=120&section=footer"/>
