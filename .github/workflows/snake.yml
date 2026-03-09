@@ -1,6 +1,6 @@
   name: Generate Snake
-                                                                                                                                                                                            
-  on:             
+
+  on:
     schedule:
       - cron: "0 0 * * *"
     workflow_dispatch:
@@ -13,9 +13,8 @@
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-              dist/github-contribution-grid-snake-red.svg?color_snake=ff4b4b&color_dots=#0d1117,#1a0000,#3d0000,#7a0000,#ff4b4b
+              dist/github-contribution-grid-snake-dark.svg?color_snake=ff4b4b&color_dots=#0d1117,#1a0000,#3d0000,#7a0000,#ff4b4b
+              dist/github-contribution-grid-snake-light.svg?color_snake=ff4b4b&color_dots=#ffffff,#ffe0e0,#ff9999,#ff4b4b,#cc0000
 
         - uses: crazy-max/ghaction-github-pages@v3
           with:
