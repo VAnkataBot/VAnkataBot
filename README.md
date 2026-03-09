@@ -23,8 +23,8 @@
     <a href="mailto:ivanrangelov55@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/></a>
 </p>
 
-<p align="center">
-<img src="https://github.com/ivanrangelov55/ivanrangelov55/blob/output/github-contribution-grid-snake-red.svg"/>
+<p align="center">                                                                                                                                                        
+<img src="https://github.com/VAnkataBot/VAnkataBot/blob/output/github-contribution-grid-snake-red.svg"/>                                                                         
 </p>
 
 <p align="center">
