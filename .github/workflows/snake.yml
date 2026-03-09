@@ -13,7 +13,7 @@
           with:
             github_user_name: ${{ github.repository_owner }}
             outputs: |
-              dist/github-contribution-grid-snake-dark.svg?color_snake=ff4b4b&color_dots=#0d1117,#1a0000,#3d0000,#7a0000,#ff4b4b
+              dist/github-contribution-grid-snake-dark.svg?color_snake=ff4b4b&color_dots=#0d1117,#2d0a0a,#5c1a1a,#a83232,#ff4b4b
               dist/github-contribution-grid-snake-light.svg?color_snake=ff4b4b&color_dots=#ffffff,#ffe0e0,#ff9999,#ff4b4b,#cc0000
 
         - uses: crazy-max/ghaction-github-pages@v3
