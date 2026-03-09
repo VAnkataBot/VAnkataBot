@@ -24,6 +24,10 @@
 </p>
 
 <p align="center">
+<img src="https://github.com/ivanrangelov55/ivanrangelov55/blob/output/github-contribution-grid-snake-red.svg"/>
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=120&section=footer"/>
 </p>
 
