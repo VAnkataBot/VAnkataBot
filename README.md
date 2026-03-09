@@ -1,6 +1,11 @@
 <p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=100&section=header&fontSize=60&fontColor=ffffff"/>
+<img media="(prefers-color-scheme: dark)" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=100&section=header&fontSize=60&fontColor=ffffff"/>
 </p>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:ffffff&height=100&section=header"/>                                                                        
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=100&section=header"/>
+  </picture>
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF4B4B&center=true&vCenter=true&width=750&lines=AI+Developer;Software+Developer;Full-Stack+Developer+;Shipping+Ideas+into+Reality+;Terminal+Dweller+" alt="Typing SVG" />
 </p>
