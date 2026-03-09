@@ -19,10 +19,12 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ff4b4b" alt="Discord"/>(https://discord.com/users/698228989302407268)
-<img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/>(mailto:ivanrangelov55@gmail.com)
+    <a href="https://discord.com/users/698228989302407268"><img src="https://img.shields.io/badge/Discord-1a1a1a?style=for-the-badge&logo=discord&logoColor=ff4b4b" alt="Discord"/></a>
+    <a href="mailto:ivanrangelov55@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff4b4b" alt="Gmail"/></a>
 </p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b4b,100:0d1117&height=120&section=footer"/>
 </p>
+
+
